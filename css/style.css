@@ -34,7 +34,7 @@ video {
 }
 
 .text-ban {
-  background-color: #65aebb;
+  background-color: #ffffff;
 
   padding: 2% 2% 2% 2%;
 
@@ -59,7 +59,7 @@ color: #ffffff; */
 
 
 .header h1 {
-  color: #ffffff;
+  color: #000000;
 }
 
 .header h1 {
@@ -114,19 +114,19 @@ a.fill-div:link,
 }
 
 .flex-box>div.project-2 {
-  background-image: url("../img/project_2.jpg");
+  background-image: url("../img/11.jpg");
 }
 
 .flex-box>div.project-3 {
-  background-image: url("../img/project_3.jpg");
+  background-image: url("../img/blue\ wall.jpg");
 }
 
 .flex-box>div.project-4 {
-  background-image: url("../img/project_4.jpg");
+  background-image: url("../img/abstract-g73455490e_1920.jpg");
 }
 
 .flex-box>div.project-5 {
-  background-image: url("../img/project_5.jpg");
+  background-image: url("../img/geometric-gd71d43302_1920.jpg");
 }
 
 
@@ -154,12 +154,12 @@ a:link {
 }
 
 .header nav ul li a:hover {
-  color: #42f5b6;
+  color: #4068d6;
 
 }
 
 .header nav ul li a:active {
-  color: #d81010;
+  color: #10d838;
 
 }
 
@@ -180,7 +180,7 @@ h1.subtitle {
 
 .section-title {
   font-size: 3em;
-  color: #0521aa;
+  color: #000000;
 
 }
 
